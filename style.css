@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans Condensed', sans-serif;
+    background-color: #909293;
+    color: #fff;
+}
+
+header {
+    position: fixed;
+    top: 30px;
+    left:40px;
+    text-align: center;
+    color: #f0f8ff;
+}
+
+header a {
+    font-size: 40px;
+    font-weight: 200;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+}
+
+p{
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+section {
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.image_1 {
+    background-image: url(img/chris-brignola-7766.jpg);
+}
+
+.image_2{
+    background-image: url(img/freddy-marschall-186923.jpg);
+}
+
+.image_3 {
+    background-image: url(img/chris-benson-228465.jpg);
+}
+
+.image_4 {
+    background-image: url(img/dan-gold-223935.jpg);
+}
+
+.image_5 {
+    background-image: url(img/maaria-lohiya-207499.jpg);
+}
+
+.image_6 {
+    background-image: url(img/stephanie-mccabe-24620.jpg);
+}
+
+footer {
+    position: fixed;
+    bottom: 30px;
+    left:30px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    margin-left: 10px;
+}
+
+footer a:hover {
+    color: #666;
+}
+
+
